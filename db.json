@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "a43e",
+      "name": "Anuhya Srestha",
+      "email": "anuhyasangars@gmail.com",
+      "dob": "2024-05-27",
+      "image": "asd"
+    },
+    {
+      "id": "4447",
+      "name": "Shravika",
+      "email": "shravika@gmail.com",
+      "dob": "2024-05-28",
+      "image": "dsflk"
+    }
+  ],
+  "removedUsers": []
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
+
+nav {
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background-image: linear-gradient(#94989A, #94989A);
+    box-shadow: 1px -1px #1c1e21;
+}
+
+.user-icon,
+.removed-user-icon {
+    font-size: 2rem;
+    margin-right: 8px;
+}
+
+.active .user-icon,
+.active .removed-user-icon {
+    color: rgb(202, 33, 33);
+    text-shadow: 1px 2px 2px white;
+}
